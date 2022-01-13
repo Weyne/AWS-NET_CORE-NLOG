@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeyneLoggingWithNLog", "WeyneLoggingWithNLog.csproj", "{A19B6578-AD1D-4A4A-9663-286D61854F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19B6578-AD1D-4A4A-9663-286D61854F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19B6578-AD1D-4A4A-9663-286D61854F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19B6578-AD1D-4A4A-9663-286D61854F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19B6578-AD1D-4A4A-9663-286D61854F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32BF5F4-82F3-4C97-BCBA-19688D3E2DB9}
+	EndGlobalSection
+EndGlobal
