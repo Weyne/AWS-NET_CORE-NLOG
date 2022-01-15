@@ -43,7 +43,6 @@ namespace WeyneLoggingWithNLog
                     .ConfigureLogging((hostingContext, logging) =>
                     {
                         logging.ClearProviders(); //esta línea hace la diferencia
-                        logging.AddConsole();//mal
                         logging.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace); //esta línea hace la diferencia
                         logging.AddNLogWeb();
                     })
